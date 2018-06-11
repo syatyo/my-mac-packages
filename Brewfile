@@ -18,6 +18,7 @@ brew "pyenv"
 brew "wget"
 cask "android-studio"
 cast "atom"
+cask "google-chrome"
 cask "homebrew/cask-versions/java8"
 mas "1Password", id: 443987910
 mas "Evernote", id: 406056744
