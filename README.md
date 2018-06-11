@@ -1,3 +1,9 @@
 # my-mac-packages
 
-Auto setup commnads for new mac.
+Setup new mac automatically.
+
+# How to use
+
+```
+./setup.sh
+```
