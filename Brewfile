@@ -25,4 +25,3 @@ mas "Evernote", id: 406056744
 mas "LINE", id: 539883307
 mas "Magnet", id: 441258766
 mas "Wunderlist", id: 410628904
-mas "Xcode", id: 497799835
