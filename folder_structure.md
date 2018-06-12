@@ -1,4 +1,6 @@
 # Structure
+
+```
 user/
 ├ Documents/
 │　├ Word
@@ -13,3 +15,4 @@ user/
 ├ Desktop/
 │　└ temp_files
 ...
+```
