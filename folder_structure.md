@@ -10,7 +10,7 @@ user/
 │　├ PyCharm
 │　└ (Application folder...)
 ├ Projects/
-│　├ MyiOSApp(alias of douments)
+│　├ MyiOSApp
 │　└ (Projects...)
 ├ Desktop/
 │　└ temp_files
