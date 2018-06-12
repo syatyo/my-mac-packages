@@ -4,10 +4,10 @@
 user/
 ├ Documents/
 │　├ Word
-│　├ GitHub
 │　├ Keynote
 │　├ Shells
 │　├ PyCharm
+│　├ Xcode
 │　└ (Application folder...)
 ├ Projects/
 │　├ MyiOSApp
